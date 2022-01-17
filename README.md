@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center"> Hi, I'm Christian Rojas Oliver <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+<img src="https://giffiles.alphacoders.com/208/208598.gif" width="950" height="470" />
+
+
+
+
+
 
 <!--
 **ChristianRojasOliver/ChristianRojasOliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
