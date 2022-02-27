@@ -1,8 +1,7 @@
 <h1 align="center"> Hi, I'm Christian Rojas Oliver <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
-<img src="x-special/nautilus-clipboard
-copy
-file:///home/cgrey/Downloads/tumblr_ozr54xCgSO1r2hy3ro2_500.gif" width="950" height="470" />
+
 <h3 align="left">Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
+<img src="https://user-images.githubusercontent.com/73666965/155896099-999f0d83-ddd2-4985-a6af-6e1351c9494d.gif">
 
 
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
