@@ -1,5 +1,7 @@
 <h1 align="center"> Hi, I'm Christian Rojas Oliver <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
-<img src="https://giffiles.alphacoders.com/208/208598.gif" width="950" height="470" />
+<img src="x-special/nautilus-clipboard
+copy
+file:///home/cgrey/Downloads/tumblr_ozr54xCgSO1r2hy3ro2_500.gif" width="950" height="470" />
 <h3 align="left">Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
 
 
