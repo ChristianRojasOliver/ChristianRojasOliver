@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm CGrey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
   
-<p align="center"><a href="mailto:christian.rojas201@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="./Christian Resume.pdf"><img src="https://img.shields.io/badge/RESUME-gray?style=for-the-badge"></a></p>
+<p align="center"><a href="mailto:christian.rojas201@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://github.com/ChristianRojasOliver/ChristianRojasOliver/blob/main/Christan%20Resume.pdf"><img src="https://img.shields.io/badge/RESUME-gray?style=for-the-badge"></a></p>
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/73666965/155903491-5fd7fe22-5229-4713-a164-d580a74b5bab.jpg"></p>
 
