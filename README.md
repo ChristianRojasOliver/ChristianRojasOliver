@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently focusing on OOP, Python, JavaScript, Nodejs, Reactjs, MySQL/NoSQL and APIs
 
-- ⚡ Fun fact: When I can't delete something I'll always go super user mode!
+- ⚡ Fun fact: If you can't delete something not important go super user mode!
 <p align="left"> <img src="https://user-images.githubusercontent.com/73666965/155921743-2126e037-af3b-4cc9-af88-c97bd36e70c1.gif"></p>
 
 <h3 align="left">Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
