@@ -4,8 +4,7 @@
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/73666965/155903491-5fd7fe22-5229-4713-a164-d580a74b5bab.jpg"></p>
 
-- 🌱 I’m focusing on OOP, Python, JavaScript, Nodejs, Reactjs, MySQL/NoSQL and APIs
-- 🔭 I’m currently learning cloud functions 
+- 🌱 I’m focusing on OOP, Python, JavaScript, Nodejs, Reactjs, MySQL/NoSQL and APIs 
 - ⚡ Fun fact: If you can't delete something not important go super user mode!
 <p align="left"> <img src="https://user-images.githubusercontent.com/73666965/155921743-2126e037-af3b-4cc9-af88-c97bd36e70c1.gif"></p>
 
