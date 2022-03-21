@@ -1,61 +1,36 @@
-<h1 align="center"> Hi, I'm CGrey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
-  
-<p align="center"><a href="mailto:christian.rojas201@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://github.com/ChristianRojasOliver/ChristianRojasOliver/blob/main/Christan%20Resume.pdf"><img src="https://img.shields.io/badge/RESUME-gray?style=for-the-badge"></a></p>
-
-<p align="center"> <img src="https://user-images.githubusercontent.com/73666965/155903491-5fd7fe22-5229-4713-a164-d580a74b5bab.jpg"></p>
-
-- 🌱 I’m focusing on OOP, Python, JavaScript, Nodejs, Reactjs, MySQL/NoSQL and APIs 
-- ⚡ Fun fact: If you can't delete something not important go super user mode!
-<p align="left"> <img src="https://user-images.githubusercontent.com/73666965/155921743-2126e037-af3b-4cc9-af88-c97bd36e70c1.gif"></p>
-
-<h3 align="center"> Pinned Repositories</h3>
-
-| Repository | Description |
-| --- | --- |
-| [ holbertonschool-higher_level_programming](https://github.com/ChristianRojasOliver/holbertonschool-higher_level_programming) | Python3, Object-Oriented Programming, interpreted languages, test driven deveplopment, SQL, MySQL, HTML, CSS, JSON and Unit Testing |
-| [ holbertonschool-higher_level_programming](https://github.com/ChristianRojasOliver/holbertonschool-higher_level_programming) | Python3, Object-Oriented Programming, interpreted languages, test driven deveplopment, SQL, MySQL, HTML, CSS, JSON, jQuery and Unit Testing |
-| [ holbertonschool-low_level_programming](https://github.com/ChristianRojasOliver/holbertonschool-low_level_programming) | C programming, functions, pointers, data structures (stacks/queues, singly/doubly linked list, hash tables, binary trees), algorithms(sorting, Big O), bit manipulation, recursion, variadic functions, memory management, heap/stack, static/dynamic libraries |
-| [ holbertonschool-system_engineering-devops](https://github.com/ChristianRojasOliver/holberton-system_engineering-devops) | Linux permissions, redirections, syscalls, loops, conditions and parsing, processes and signals, SSH |
-
-<h3 align="left">Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
-
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
-
-| Project name | Description |
-| --- | --- |
-| [printf](https://github.com/ChristianRojasOliver/printf)| The program is designed to mimic the printf function in C.|
-| [simple_shell](https://github.com/ChristianRojasOliver/simple_shell)| The program is designed to mimic the abilities of a simple shell. |
-| [Monty](https://github.com/ChristianRojasOliver/monty) | Stacks, Queues - LIFO, FIFO |
-| [AirBnB - The Console](https://github.com/ChristianRojasOliver/AirBnB_clone)| Python packages, command interpreter in Python using the cmd module, unit testing and how to implement it in a large project and more|
-| [Binary Trees](https://github.com/ChristianRojasOliver/binary_trees)| 16 tasks focused on binary trees|
-| [AirBnB clone - Web framework](https://github.com/ChristianRojasOliver/AirBnB_clone_v2)| Build a web framework with flask, define routes in Flask, handle variables in a route, create a HTML response, dynamic templates, and displaying data from MySQL|
-| [AirBnB clone - RESTful API](https://github.com/ChristianRojasOliver/AirBnB_clone_v3)| APIs, RESTful API, CORS, HTTP|
+<p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="350px" width ="350px"></p>
 
 
-## &#x1f4c8; GitHub Stats
+<h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm CGrey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ChristianRojasOliver" alt="ChristianRojasOliver" /> </p>
+<hr \>
 
-<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChristianRojasOliver&show_icons=true&locale=en&layout=compact&theme=radical" alt="ChristianRojasOliver" width=400 height=190/></p>
+I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at HolbertonSchool 👨‍🎓
+   
+- 🤔 Exploring new technologies and developing software solutions and quick hacks.
+- 🌱 Currently Learning Blockchain Technology.
+- 🎮 Star Wars: Galaxy of Heroes
+- 💬 Ask me about anything and everything. 
+- ⚡ Fun fact: Jack of all trades , Master of None ! 
+- 🤝🏻Open for project collaboration and internship opportunities.
 
-<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=ChristianRojasOliver&show_icons=true&theme=radical" alt="ChristianRojasOliver" width=400 height=200/></p>
+<div>
+  <h3> 💻 Languages and Tools </h3>
+  <p>
+   <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+  <p>
+</div> 
+
+![CGrey Github Stats](https://github-readme-stats.vercel.app/api?username=ChristianRojasOliver&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
-
-
-
-
-
-<!--
-**ChristianRojasOliver/ChristianRojasOliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a href="https://www.linkedin.com/in/christian-rojas-1078ab205/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
+    <a href="mailto:christian.rojas201@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
+</p>
+<hr \>
+<p align="center">
+   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+   <br>
+   <i>You miss 100% of the shots you don't take.</i>
+</p>       
