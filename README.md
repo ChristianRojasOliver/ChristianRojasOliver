@@ -26,7 +26,7 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at 
 <p align="center">
     <a href="https://www.linkedin.com/in/christian-rojas-1078ab205/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
     <a href="mailto:christian.rojas201@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
-<a href='./ChristianRojas_Resume.pdf'><img src="https://img.shields.io/badge/RESUME-black?style=for-the-badge width="100" height="30" /></a>
+<a href='./ChristianRojas_Resume.pdf'><img src="https://img.shields.io/badge/RESUME-black?style=for-the-badge%22%3E" width="100" height="30" /></a>
 </p>
 
 <hr \>
